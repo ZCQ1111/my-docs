@@ -2,7 +2,7 @@
  * @Author: Null Zhao
  * @Date: 2022-04-07 17:18:19
  * @LastEditors: Null Zhao
- * @LastEditTime: 2022-04-11 14:40:50
+ * @LastEditTime: 2022-04-11 16:27:49
  * @FilePath: \my-docs\docs\video-monitoring.md
  * @Description: 
  * ctrl+alt+i ctrl+win+t win+y
@@ -171,6 +171,7 @@
     styleUrls: ['./camera-by-flv.component.less']
     })
     export class CameraByFlvComponent implements OnInit {
+    // lal转码,端口为8080,node-media-server转码,端口为8000(http),8443(https)
     @Input() cameraUrl: string='';
     @Input() isLive: boolean = false;
     @Input() cameraLine!: number[][];
