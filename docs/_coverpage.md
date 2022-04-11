@@ -2,7 +2,7 @@
  * @Author: Null Zhao
  * @Date: 2022-02-21 15:03:10
  * @LastEditors: Null Zhao
- * @LastEditTime: 2022-03-04 10:14:55
+ * @LastEditTime: 2022-04-07 10:41:57
  * @FilePath: \my-docs\docs\_coverpage.md
  * @Description: 封面
  * ctrl+alt+i
@@ -18,7 +18,7 @@
 - 无需生成 html 文件
 - 众多主题
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[官方教程](https://docsify.js.org/#/)
 [Get Started](#docsify-template)
 
 <!-- 背景图片 -->
