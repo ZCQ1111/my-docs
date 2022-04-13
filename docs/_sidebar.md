@@ -2,7 +2,7 @@
  * @Author: Null Zhao
  * @Date: 2022-02-18 14:31:37
  * @LastEditors: Null Zhao
- * @LastEditTime: 2022-04-08 10:32:04
+ * @LastEditTime: 2022-04-13 10:24:11
  * @FilePath: \my-docs\docs\_sidebar.md
  * @Description: sidebar配置
  * ctrl+alt+i
@@ -18,8 +18,11 @@
     - [测试介绍](test-introduction.md"测试介绍")
     - [服务测试](ng-service.md"服务测试")
 - [开立专案准备事项](opening-project-preparation.md"开立专案准备事项")
-- Postgre
-  - [trouble shooting](postgre-trouble-shooting.md"问题解答")
+- trouble shooting
+  - [Postgre](./trouble-shooting/postgre-trouble-shooting.md)
+  - [CICD](./trouble-shooting/cicd-trouble-shooting.md)
+  - [typescript](./trouble-shooting/typescript-trouble-shooting.md)
+  - [Git](./trouble-shooting/git-trouble-shooting.md)
 - 功能实现
   - [视频监控](video-monitoring.md"视频监控")
   - [mqtts](mqtts.md"mqtts")

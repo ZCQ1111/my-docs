@@ -2,13 +2,13 @@
  * @Author: Null Zhao
  * @Date: 2022-04-07 09:19:17
  * @LastEditors: Null Zhao
- * @LastEditTime: 2022-04-07 09:33:11
- * @FilePath: \my-docs\docs\postgre-trouble-shooting.md
+ * @LastEditTime: 2022-04-13 10:25:52
+ * @FilePath: \my-docs\docs\trouble-shooting\postgre-trouble-shooting.md
  * @Description: 
  * ctrl+alt+i ctrl+win+t win+y
  * Copyright (c) 2022 by null, All Rights Reserved. 
 -->
-1、覆盖IDENTITY列，系统自动生成的自增值。
+!> 覆盖IDENTITY列，系统自动生成的自增值。
 
 **OVERRIDING SYSTEM VALUE**
 
