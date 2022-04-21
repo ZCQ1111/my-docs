@@ -39,3 +39,9 @@ git config --global http.sslVerify "false"
 
 [解决.gitignore无法生效的问题](https://www.jianshu.com/p/ddd248164a5d?utm_medium=reader_share&utm_content=note)  
 刷新gitlen插件源代码更改管理
+
+## 保存帐号密码
+
+```
+git config --global credential.helper store
+```
