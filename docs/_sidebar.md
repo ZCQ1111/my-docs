@@ -2,7 +2,7 @@
  * @Author: Null Zhao
  * @Date: 2022-02-18 14:31:37
  * @LastEditors: Null Zhao
- * @LastEditTime: 2022-04-14 13:44:13
+ * @LastEditTime: 2022-04-25 13:49:17
  * @FilePath: \my-docs\docs\_sidebar.md
  * @Description: sidebar配置
  * ctrl+alt+i
@@ -24,9 +24,13 @@
   - [typescript](./trouble-shooting/typescript-trouble-shooting.md)
   - [Git](./trouble-shooting/git-trouble-shooting.md)
   - [rxjs](./trouble-shooting/rxjs.md)
+  - [SSL](./trouble-shooting/SSL-trouble-shooting.md)
 - 功能实现
   - [视频监控](video-monitoring.md"视频监控")
   - [mqtts](mqtts.md"mqtts")
+- backend
+  - [Docker](docker.md)
+  - [Postgre](postgre.md)
 - 网络安全
   - [SSL/TLS](SSL_TLS.md"证书验证问题")
 - 马克思主义
