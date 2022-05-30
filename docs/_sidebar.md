@@ -2,7 +2,7 @@
  * @Author: Null Zhao
  * @Date: 2022-02-18 14:31:37
  * @LastEditors: Null Zhao
- * @LastEditTime: 2022-04-25 13:49:17
+ * @LastEditTime: 2022-05-30 14:11:30
  * @FilePath: \my-docs\docs\_sidebar.md
  * @Description: sidebar配置
  * ctrl+alt+i
@@ -34,6 +34,7 @@
 - 网络安全
   - [SSL/TLS](SSL_TLS.md"证书验证问题")
 - 马克思主义
+  - [国际工人协会成立宣言](./Marxism/MARX/%E5%9B%BD%E9%99%85%E5%B7%A5%E4%BA%BA%E5%8D%8F%E4%BC%9A%E6%88%90%E7%AB%8B%E5%AE%A3%E8%A8%80.MD)
   - [《马克思主义的三次危机》](./Marxism/The%20three%20crises%20of%20Marxism.md)
   - [《土地问题》和《马克思的批评家》](./Marxism/The%20Question%20of%20Land%20and%20Marx's%20Critics.md)
   - [湖南农民运动考察报告](./Marxism/%E6%B9%96%E5%8D%97%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E8%80%83%E5%AF%9F%E6%8A%A5%E5%91%8A.md)
