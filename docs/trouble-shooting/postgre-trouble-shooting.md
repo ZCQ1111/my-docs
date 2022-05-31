@@ -2,7 +2,7 @@
  * @Author: Null Zhao
  * @Date: 2022-04-07 09:19:17
  * @LastEditors: Null Zhao
- * @LastEditTime: 2022-04-13 10:25:52
+ * @LastEditTime: 2022-05-31 14:09:05
  * @FilePath: \my-docs\docs\trouble-shooting\postgre-trouble-shooting.md
  * @Description: 
  * ctrl+alt+i ctrl+win+t win+y
@@ -25,3 +25,7 @@ id | info
 1 | test  
 (1 row)  
 ```
+
+!> column "columnname" does not exist
+
+> 表名字段必须小写
