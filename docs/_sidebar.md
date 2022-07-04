@@ -62,3 +62,7 @@
     - [《马克思主义的三次危机》](./Marxism/The%20three%20crises%20of%20Marxism.md)
     - [《土地问题》和《马克思的批评家》](./Marxism/The%20Question%20of%20Land%20and%20Marx's%20Critics.md)
     - [国际工人协会成立宣言](./Marxism/MARX/国际工人协会成立宣言.md)
+    - [论再生产](./Marxism/Althusser/论再生产.md)
+    - [阿尔都塞生前最后对话录](./Marxism/Althusser/阿尔都塞生前最后对话录.md)
+    - [论马克思与弗洛伊德](./Marxism/Althusser/论马克思与弗洛伊德.md)
+    - [偶然相遇的唯物主义](./Marxism/Althusser/相遇唯物主义的潜流.md)
