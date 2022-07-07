@@ -2,13 +2,13 @@
  * @Author: Null Zhao
  * @Date: 2022-04-07 09:19:17
  * @LastEditors: Null Zhao
- * @LastEditTime: 2022-05-31 14:09:05
+ * @LastEditTime: 2022-06-17 14:32:34
  * @FilePath: \my-docs\docs\trouble-shooting\postgre-trouble-shooting.md
  * @Description: 
  * ctrl+alt+i ctrl+win+t win+y
  * Copyright (c) 2022 by null, All Rights Reserved. 
 -->
-!> 覆盖IDENTITY列，系统自动生成的自增值。
+## 覆盖IDENTITY列，系统自动生成的自增值。
 
 **OVERRIDING SYSTEM VALUE**
 
@@ -26,6 +26,14 @@ id | info
 (1 row)  
 ```
 
-!> column "columnname" does not exist
+## column "columnname" does not exist
 
 > 表名字段必须小写
+
+## 无法编辑
+
+> 未设主键
+
+## csv导入中文数据
+
+> 可以用编码GB18030
