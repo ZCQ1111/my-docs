@@ -28,6 +28,7 @@
 - 功能实现
   - [视频监控](video-monitoring.md"视频监控")
   - [mqtts](mqtts.md"mqtts")
+  - [检索技巧](search.md)
 - backend
   - [Docker](docker.md)
   - [Postgre](postgre.md)
